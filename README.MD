@@ -14,7 +14,7 @@ UNIQUE KEY email (email)
 
 # setup file structue
 
-1 - npm init -y
-2 - touch server.js .env
-3 - mkdir config models views controllers routes middleware util
+1 - npm init -y \
+2 - touch server.js .env \
+3 - mkdir config models views controllers routes middleware util \
 4 - install npm packages :- npm i express express-validator mysql2 jsonwebtoken bcryptjs nodemon cors dotenv
