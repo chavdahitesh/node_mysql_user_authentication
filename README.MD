@@ -21,12 +21,12 @@ UNIQUE KEY email (email)
 
 ##
 
-- clone the project git clone -b master https://github.com/chavdahitesh/node_mysql_user_authentication.githttps://github.com/chavdahitesh/node_mysql_user_authentication.git \
-- go to project root folder \
-- create .env file (touch .env) \
-- copy example.env variables and add in .env \
-- install dependency (npm install) \
-- run project with command: npm start \
+- clone the project git clone -b master https://github.com/chavdahitesh/node_mysql_user_authentication.githttps://github.com/chavdahitesh/node_mysql_user_authentication.git 
+- go to project root folder 
+- create .env file (touch .env) 
+- copy example.env variables and add in .env 
+- install dependency (npm install) 
+- run project with command: npm start 
 
 ## ROUTES
 GET USER INFO :- localhost:3000/api/v1/user/getuser \
